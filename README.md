@@ -17,12 +17,14 @@ Found some links from Reddit about how to email our government and media and sug
 
    **NOTE:** You MUST finish your email with your full name, your full postal address with post code and your phone/mobile number. MPs have an obligation to respond to their constituents only. So they need your details to verify who you are before they can reply to you. So DO provide your full name, address and number while writing to your MP. If you've forgotten to include these details, resend your email with your full details. Otherwise they have no obligation to act on your request.
 
-4. Email some members of the House of Lords. Find the members using <https://members.parliament.uk/members/lords>. You may need to do some research to find which member will empathize with your sentiments and write to them. So come back to this point later if you don't know who to write to. Adapt the previous template to write your email. Some recommendations from the community regarding who to write to:
+4. Email some members of the House of Lords. Find the members using <https://members.parliament.uk/members/lords>. You may need to do some research to find which member will empathize with your sentiments and write to them. So come back to this point later if you don't know who to write to. Adapt the previous template to write your email. Some folks have already written to members in the list below:
 
-   - <https://members.parliament.uk/member/3709/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
-   - <https://members.parliament.uk/member/891/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
-   - <https://members.parliament.uk/member/1987/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
-   - <https://members.parliament.uk/member/2652/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mta3utd/))
+   - <https://members.parliament.uk/member/3709/contact> ([see here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
+   - <https://members.parliament.uk/member/891/contact> ([see here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
+   - <https://members.parliament.uk/member/1987/contact> ([see here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
+   - <https://members.parliament.uk/member/2652/contact> ([see here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mta3utd/))
+  
+   Writing to the same members again could help with showing the numbers. But it is probably better to find other members using <https://members.parliament.uk/members/lords> and write to them. Like mentioned above, this task needs research. So come back to this point later if you don't have the time now.
   
    **NOTE:** Remember to include your full name, full postal address with post code and mobile number. 
 
