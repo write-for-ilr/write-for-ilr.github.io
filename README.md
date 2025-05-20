@@ -52,7 +52,10 @@ Found some links from Reddit about how to email our government and media and sug
    * Survey results: <https://docs.google.com/spreadsheets/d/1f3wtNGCfxtSzdkdYOZZBexO4mAGSfOFQ8WcqwwitId0>
    * Survey info: <https://old.reddit.com/r/ukvisa/comments/1knjydy/if_youve_emailed_your_mp_please_fill_out_this/>
 
-2. Someone suggested to visit the MPs in person in surgeries (meaning "meetings"). Check this out: <https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt4xzhd/>.
+2. Many community members have suggested that you ask your British friends to write to their MPs about this issue. In their letters, they can highlight that applying laws retrospectively is not only unjust but also undermines the principle of legitimate expectation, a cornerstone of a civilized world. This approach is harmful not just to immigrants but to everyone, as it sets a dangerous precedent for everyone: that laws and policies can be changed and enforced on anyone retrospectively. One analogy raised was: imagine a new law is passed to increase income tax and you are then required to pay the higher rate on all your previous earnings. How would that feel? The community suggests asking your British friends to write to their MPs about these fundamental issues.
+
+3. Someone suggested to visit the MPs in person in surgeries (meaning "meetings"). Check this out: <https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt4xzhd/>.
+
 
 ## Reddit mega-thread sorted by new comments
 
