@@ -33,8 +33,8 @@ Found some links from Reddit about how to email our government and media and sug
 
 ## Reddit mega-thread sorted by new comments
 
-https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/?sort=new
+<https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/?sort=new>
 
-## White paper that started it all
+## White paper
 
-https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper
+<https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper>
