@@ -40,7 +40,7 @@ Found some links from Reddit about how to email our government and media and sug
 
 12. Write to the Guardian at `guardian.letters@theguardian.com`. Read one of their articles like <https://www.theguardian.com/uk-news/2025/may/13/tell-us-how-you-might-be-affected-by-labours-plans-to-reduce-migration-to-the-uk> or <https://www.theguardian.com/politics/2025/may/16/we-are-a-diverse-nation-not-an-island-of-strangers> and write your email as a response to it with your thoughts.
 
-   **NOTE:** The Guardian requires your name and full postal address. They don't publish the full address though. They publish your name and your city name only.
+    **NOTE:** The Guardian requires your name and full postal address. They don't publish the full address though. They publish your name and your city name only.
 
 ## Extra mile
 
