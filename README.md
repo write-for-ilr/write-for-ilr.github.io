@@ -13,7 +13,7 @@ Found some links from Reddit about how to email our government and media and sug
    - [Template 3](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/msch87n/)
    - [Template 4](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/ms9if6e/)
 
-   Don't just copy-paste the template. Personalize it for yourself. You must finish your email with your full name, your full postal address with post code and your phone/mobile number. Most MPs take these emails seriously and do reply to you if you belong to their constituency. But they need your details to verify who you are before they can reply to you. So do provide your full name, address and number while writing to your MP.
+   Pick one template and write your email. Don't just copy-paste the template. Personalize it for yourself. You must finish your email with your full name, your full postal address with post code and your phone/mobile number. Most MPs take these emails seriously and do reply to you if you belong to their constituency. But they need your details to verify who you are before they can reply to you. So do provide your full name, address and number while writing to your MP.
 
 3. Email some members of the House of Lords. Find the members using <https://members.parliament.uk/members/lords>. You may need to do some research to find which member will empathize with your sentiments and write to them. So come back to this point later if you don't know who to write to. Adapt the previous template to write your email. Remember to include your full name, full postal address with post code and mobile number.
 
