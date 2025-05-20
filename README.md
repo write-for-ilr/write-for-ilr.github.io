@@ -17,10 +17,10 @@ Found some links from Reddit about how to email our government and media and sug
 
 3. Email some members of the House of Lords. Find the members using <https://members.parliament.uk/members/lords>. You may need to do some research to find which member will empathize with your sentiments and write to them. So come back to this point later if you don't know who to write to. Adapt the previous template to write your email. Remember to include your full name, full postal address with post code and mobile number. Some recommendations from the community regarding who to write to:
 
-   - https://members.parliament.uk/member/3709/contact ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
-   - https://members.parliament.uk/member/891/contact ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
-   - https://members.parliament.uk/member/1987/contact ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
-   - https://members.parliament.uk/member/2652/contact ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mta3utd/))
+   - <https://members.parliament.uk/member/3709/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
+   - <https://members.parliament.uk/member/891/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
+   - <https://members.parliament.uk/member/1987/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
+   - <https://members.parliament.uk/member/2652/contact> ([recommended here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mta3utd/))
 
 5. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kl3bup/tell_the_home_office_not_to_apply_the_10year_ilr/>. There's too much information on that page. So let me make it easy for you. First search for "Home Department" on that page. That's where the letter starts. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background. Include full name, full postal address with post code at the bottom. They advice you to email the letter to both `public.enquiries@homeoffice.gov.uk` and `immigrationpubliccorrespondence@homeoffice.gov.uk`.
 
