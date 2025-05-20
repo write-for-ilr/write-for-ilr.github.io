@@ -15,7 +15,7 @@ Found some links from Reddit about how to email our government and media and sug
 
    Pick one template and write your email. Don't just copy-paste the template. Personalize it for yourself.
 
-   **NOTE:** You MUST finish your email with your full name, your full postal address with post code and your phone/mobile number. Most MPs take these emails seriously and do reply to you if you belong to their constituency. But they need your details to verify who you are before they can reply to you. So DO provide your full name, address and number while writing to your MP.
+   **NOTE:** You MUST finish your email with your full name, your full postal address with post code and your phone/mobile number. MPs have an obligation to respond to their constituents only. So they need your details to verify who you are before they can reply to you. So DO provide your full name, address and number while writing to your MP. If you've forgotten to include these details, resend your email with your full details. Otherwise they have no obligation to act on your request.
 
 4. Email some members of the House of Lords. Find the members using <https://members.parliament.uk/members/lords>. You may need to do some research to find which member will empathize with your sentiments and write to them. So come back to this point later if you don't know who to write to. Adapt the previous template to write your email. Some recommendations from the community regarding who to write to:
 
@@ -26,13 +26,19 @@ Found some links from Reddit about how to email our government and media and sug
   
    **NOTE:** Remember to include your full name, full postal address with post code and mobile number. 
 
-5. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kl3bup/tell_the_home_office_not_to_apply_the_10year_ilr/>. There's too much information on that page. So let me make it easy for you. First search for "Home Department" on that page. That's where the letter starts. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background. Include full name, full postal address with post code at the bottom. They advice you to email the letter to both `public.enquiries@homeoffice.gov.uk` and `immigrationpubliccorrespondence@homeoffice.gov.uk`.
+5. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kl3bup/tell_the_home_office_not_to_apply_the_10year_ilr/>. There's too much information on that page. So let me make it easy for you. First search for "Home Department" on that page. That's where the letter starts. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background.
 
-6. If you live in London, write to the Mayor at `mayor@london.gov.uk`. Remember to adapt the email template from the 2nd point. Remember to write your full name, full postal address with post code and mobile number.
+   **NOTE:** Include full name, full postal address with post code at the bottom of your letter.
 
-7. Write to BBC at `bbcyourvoice@bbc.co.uk`. Read <https://www.bbc.co.uk/news/articles/c249ndrrd7vo> and write your email as a response to this article with your thoughts.
+   The creator of the letter advices you to email the letter to both `public.enquiries@homeoffice.gov.uk` and `immigrationpubliccorrespondence@homeoffice.gov.uk`.
 
-8. Write to the Guardian at `guardian.letters@theguardian.com`. Read one of their articles like <https://www.theguardian.com/uk-news/2025/may/13/tell-us-how-you-might-be-affected-by-labours-plans-to-reduce-migration-to-the-uk> or <https://www.theguardian.com/politics/2025/may/16/we-are-a-diverse-nation-not-an-island-of-strangers> and write your email as a response to it with your thoughts.
+8. If you live in London, write to the Mayor at `mayor@london.gov.uk`. Remember to adapt the email template from the 2nd point.
+
+   **NOTE:** Remember to write your full name, full postal address with post code and mobile number.
+
+11. Write to BBC at `bbcyourvoice@bbc.co.uk`. Read <https://www.bbc.co.uk/news/articles/c249ndrrd7vo> and write your email as a response to this article with your thoughts.
+
+12. Write to the Guardian at `guardian.letters@theguardian.com`. Read one of their articles like <https://www.theguardian.com/uk-news/2025/may/13/tell-us-how-you-might-be-affected-by-labours-plans-to-reduce-migration-to-the-uk> or <https://www.theguardian.com/politics/2025/may/16/we-are-a-diverse-nation-not-an-island-of-strangers> and write your email as a response to it with your thoughts.
 
    **NOTE:** The Guardian requires your name and full postal address. They don't publish the full address though. They publish your name and your city name only.
 
