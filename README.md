@@ -27,7 +27,10 @@ Found some links from Reddit about how to email our government and media and sug
 
 ## Extra mile
 
-1. After writing to the MP and hopefully Home Office too, fill out this form: <https://docs.google.com/forms/d/e/1FAIpQLSfvgKM20uT5rKZhRBWfPmUNx_a-clEBKLZS6JE0rAAL6H8pPw/viewform>. See form submission data here: <https://docs.google.com/spreadsheets/d/1f3wtNGCfxtSzdkdYOZZBexO4mAGSfOFQ8WcqwwitId0>. Check this out for more about this form: <https://old.reddit.com/r/ukvisa/comments/1knjydy/if_youve_emailed_your_mp_please_fill_out_this/>.
+1. After writing to the MP and hopefully Home Office too, fill out the survey form that helps the community track how many people have wrote to their MPs:
+   * Survey form: <https://docs.google.com/forms/d/e/1FAIpQLSfvgKM20uT5rKZhRBWfPmUNx_a-clEBKLZS6JE0rAAL6H8pPw/viewform>
+   * Survey results: <https://docs.google.com/spreadsheets/d/1f3wtNGCfxtSzdkdYOZZBexO4mAGSfOFQ8WcqwwitId0>
+   * Survey info: <https://old.reddit.com/r/ukvisa/comments/1knjydy/if_youve_emailed_your_mp_please_fill_out_this/>
 
 2. Someone suggested to visit the MPs in person in surgeries (meaning "meetings"). Check this out: <https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt4xzhd/>.
 
@@ -35,6 +38,7 @@ Found some links from Reddit about how to email our government and media and sug
 
 <https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/?sort=new>
 
-## White paper
+## Other info
 
-<https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper>
+* White Paper: <https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper>
+* Monthly visa approval data: <https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-application-april-2025/monthly-entry-clearance-visa-applications-april-2025>
