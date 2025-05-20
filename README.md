@@ -60,5 +60,6 @@ Found some links from Reddit about how to email our government and media and sug
 
 ## Other info
 
-* White Paper: <https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper>
+* White paper: <https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper>
+* FAQ about the white paper: <https://commonslibrary.parliament.uk/research-briefings/cbp-10267/>
 * Monthly visa approval data: <https://www.gov.uk/government/statistics/monthly-entry-clearance-visa-application-april-2025/monthly-entry-clearance-visa-applications-april-2025>
