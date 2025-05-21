@@ -24,7 +24,7 @@ Found some links from Reddit about how to email our government and media and sug
    - <https://members.parliament.uk/member/1987/contact> ([see here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mt9hm3q/))
    - <https://members.parliament.uk/member/2652/contact> ([see here](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mta3utd/))
   
-   I don't know if writing to the same members is helpful. It could help with showing the numbers but I don't know. The community recommends ([see comment](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mtb8d67/)) finding other members using <https://members.parliament.uk/members/lords> and write to them so that more members of the house can be convinced. Like mentioned above, this task needs research. So come back to this point later if you don't have the time now.
+   I don't know if writing to the same members is helpful. It could help with showing the numbers but I don't know. The community recommends ([see comments](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mtb8d67/)) finding other members who have immigration as a policy interest using the link <https://members.parliament.uk/members/lords?PolicyInterestId=2&ShowAdvanced=true> and write to them so that more members of the house can be convinced. Some have also suggested to email Crossbench members. Like mentioned above, this task needs research. So come back to this point later if you don't have the time now.
   
    **NOTE:** Remember to include your full name, full postal address with post code and mobile number. 
 
