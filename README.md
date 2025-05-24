@@ -48,7 +48,7 @@ Found some links from Reddit about how to email our government and media and sug
 
  9. Several members of the community have recommended encouraging your British friends to contact their MPs about this issue. You can share the following email template with them:
 
-    * [Template 1](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mu2eoac/).
+    * [Template 1](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mu2eoac/)
 
 10. After writing to the MP and hopefully Home Office too, fill out the survey form that helps the community track how many people have wrote to their MPs:
 
