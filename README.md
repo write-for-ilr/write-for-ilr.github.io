@@ -28,7 +28,7 @@ Found some links from Reddit about how to email our government and media and sug
   
     **NOTE:** Remember to include your full name, full postal address with post code and mobile number. 
 
- 4. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kl3bup/tell_the_home_office_not_to_apply_the_10year_ilr/>. There's too much information on that page. So let me make it easy for you. First search for "Home Department" on that page. That's where the letter starts. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background.
+ 4. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mwpwwfc/>. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background.
 
     **NOTE:** Include full name, full postal address with post code at the bottom of your letter.
 
