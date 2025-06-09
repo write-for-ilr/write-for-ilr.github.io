@@ -30,7 +30,7 @@ Found some links from Reddit about how to email our government and media and sug
 
  4. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kl3bup/>. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background.
 
-    **UPDATE:** Unfortunately, the creator of the letter has deleted the above post. So unless someone can reshare that template, you'll have to write a letter yourself. As far as I remember, the representation letter requested Home Office to consider not applying the ILR change retrospectively on the basis of the "principle of legitimate expectation" (Google that phrase to understand what it means).
+    **UPDATE:** The original post containing the letter has been deleted by its creator. Unless someone is able to share the template again, you'll need to write a letter yourself. As I recall, the representation letter requested the Home Office to refrain from applying the ILR change retrospectively, based on the "principle of legitimate expectation" (you can Google that phrase to understand its meaning).
 
     **NOTE:** Include full name, full postal address with post code at the bottom of your letter.
 
