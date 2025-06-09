@@ -28,29 +28,31 @@ Found some links from Reddit about how to email our government and media and sug
   
     **NOTE:** Remember to include your full name, full postal address with post code and mobile number. 
 
- 4. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mwpwwfc/>. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background.
+ 4. Someone suggested to send representation letter to Home Office. Find letter and email address here: <https://old.reddit.com/r/ukvisa/comments/1kl3bup/>. The creator of that letter advices you to copy the letter and then personalize the letter to reflect your factual background.
+
+    **UPDATE:** Unfortunately, the creator of the letter has deleted the above post. So unless someone can reshare that template, you'll have to write a letter yourself. As far as I remember, the representation letter requested Home Office to consider not applying the ILR change retrospectively on the basis of the "principle of legitimate expectation" (Google that phrase to understand what it means).
 
     **NOTE:** Include full name, full postal address with post code at the bottom of your letter.
 
     The creator of the letter advices you to email the letter to both `public.enquiries@homeoffice.gov.uk` and `immigrationpubliccorrespondence@homeoffice.gov.uk`.
 
- 5. If you live in London, write to the Mayor at `mayor@london.gov.uk`. Remember to adapt the email template from the 2nd point.
+ 6. If you live in London, write to the Mayor at `mayor@london.gov.uk`. Remember to adapt the email template from the 2nd point.
 
     **NOTE:** Remember to write your full name, full postal address with post code and mobile number.
 
- 6. Write to BBC at `bbcyourvoice@bbc.co.uk`. Read <https://www.bbc.co.uk/news/articles/c249ndrrd7vo> and write your email as a response to this article with your thoughts.
+ 7. Write to BBC at `bbcyourvoice@bbc.co.uk`. Read <https://www.bbc.co.uk/news/articles/c249ndrrd7vo> and write your email as a response to this article with your thoughts.
 
- 7. Write to the Guardian at `guardian.letters@theguardian.com`. Read one of their articles like <https://www.theguardian.com/uk-news/2025/may/13/tell-us-how-you-might-be-affected-by-labours-plans-to-reduce-migration-to-the-uk> or <https://www.theguardian.com/politics/2025/may/16/we-are-a-diverse-nation-not-an-island-of-strangers> and write your email as a response to it with your thoughts.
+ 8. Write to the Guardian at `guardian.letters@theguardian.com`. Read one of their articles like <https://www.theguardian.com/uk-news/2025/may/13/tell-us-how-you-might-be-affected-by-labours-plans-to-reduce-migration-to-the-uk> or <https://www.theguardian.com/politics/2025/may/16/we-are-a-diverse-nation-not-an-island-of-strangers> and write your email as a response to it with your thoughts.
 
     **NOTE:** The Guardian requires your name and full postal address. They don't publish the full address though. They publish your name and your city name only.
 
- 8. Sign this petition: <https://petition.parliament.uk/petitions/727360>. It takes only 2 minutes.
+ 9. Sign this petition: <https://petition.parliament.uk/petitions/727360>. It takes only 2 minutes.
 
- 9. Several members of the community have recommended encouraging your British friends to contact their MPs about this issue. You can share the following email template with them:
+ 10. Several members of the community have recommended encouraging your British friends to contact their MPs about this issue. You can share the following email template with them:
 
     * [Template 1](https://old.reddit.com/r/ukvisa/comments/1kkmz18/immigration_changes_announcement_1252025/mu2eoac/)
 
-10. After writing to the MP and hopefully Home Office too, fill out the survey form that helps the community track how many people have wrote to their MPs:
+11. After writing to the MP and hopefully Home Office too, fill out the survey form that helps the community track how many people have wrote to their MPs:
 
     * Survey form: <https://docs.google.com/forms/d/e/1FAIpQLSfvgKM20uT5rKZhRBWfPmUNx_a-clEBKLZS6JE0rAAL6H8pPw/viewform>
     * Survey results: <https://docs.google.com/spreadsheets/d/1f3wtNGCfxtSzdkdYOZZBexO4mAGSfOFQ8WcqwwitId0>
